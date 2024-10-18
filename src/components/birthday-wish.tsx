@@ -115,7 +115,7 @@ export default function BirthdayWish() {
               Happy 20th Birthday!
             </CardTitle>
             <CardDescription className="text-2xl font-semibold text-gray-600">
-              Muhammad Areeb Malik
+              Muhammad Areeb
             </CardDescription>
             <p className="text-lg text-gray-500">Novemeber 9</p>
           </CardHeader>
