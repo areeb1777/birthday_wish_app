@@ -117,7 +117,7 @@ export default function BirthdayWish() {
             <CardDescription className="text-2xl font-semibold text-gray-600">
               Danish
             </CardDescription>
-            <p className="text-lg text-gray-500">November 09</p>
+            <p className="text-lg text-gray-500">February 14</p>
           </CardHeader>
           {/* Card content with candles and balloons */}
           <CardContent className="space-y-6 text-center">
